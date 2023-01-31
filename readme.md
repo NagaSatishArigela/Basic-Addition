@@ -16,3 +16,6 @@ Server Project Setup
 
 Server Project Overview
 1. Basic route endpoint which perform addition functionality based on path parameters
+
+Final Project Overview:
+![image](https://user-images.githubusercontent.com/70377531/215857974-7e2bf80e-e480-40ae-999e-d3868d404d36.png)
